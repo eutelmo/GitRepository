@@ -1,7 +1,7 @@
 # GitRepository
 
 ## English
-### As part of a course on react where the app was configured from scratch, from Webpck, babel among others and I converted to TypeScript and covered basic concepts. Creating a simple application to consume a git repository access api,
+### Create a base structure of a React application using tools like Webpack, Babel, Webpack Dev server, SASS, Source Maps, fast Refresh and changing the project typing from JavaScript to Typescript
 
 ## Portugues
-### No ambito de um curso sobre react onde foi configurada a app do zero, desde Webpck, babel entre outros e converti para TypeScript e abordei conceitos basicos. Criação de uma aplicação simples a consumir uma api de acesso ao repositorio git.
+### Criei a estrutura base de uma aplicação React onde utilizaaei ferramentas como o Webpack, Babel, Webpack Dev server, SASS, Source Maps, fast Refresh e a alteraçao da tipagem do projeto de JavaScript para Typescript
